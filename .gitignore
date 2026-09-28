@@ -1,0 +1,13 @@
+﻿
+dataset/
+model/
+output/
+runs/
+legacy/
+tmp/
+.analysis_deps/
+.notebook_dev/
+.notebook-test-venv/
+.uv-analysis-cache/
+.ipynb_checkpoints/
+__pycache__/
